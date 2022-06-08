@@ -6,7 +6,7 @@
 
 ####  I love working with backend files such as creating typeDefs and mutations for graphQL, working with express routes, and even working on some front end routing with React. I am currently working on a website called "[Show Selector](https://github.com/EthanBrockway/show-selector)" that allows users to search for shows and save/share the shows they have watched or want to watch for their piers to see and comment on. 
 
-# Languages/technologies (In order from most known to least known)
+# Languages/Technologies (In order from most known to least known)
 
 * JavaScript
 * GraphQL

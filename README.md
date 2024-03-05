@@ -6,7 +6,8 @@
 
 ####  I love working with backend files such as creating typeDefs and mutations for graphQL, working with express routes, and even working on some front end routing with React. I am currently working on a React website called "[Inventory Manager]"(https://github.com/EthanBrockway/Inventory-Manager)" that allows users to search for shows and save/share them for their peers to see and comment on. 
 
-# Languages/Technologies (In order from most known to least known)
+# Languages/Technologies 
+
 
 * JavaScript
 * GraphQL
@@ -18,5 +19,8 @@
 * SQL
 * CSS
 * TypeScript
+* C#
+* Unity
+* Next.js
   
 
